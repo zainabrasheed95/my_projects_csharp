@@ -10,7 +10,7 @@ namespace test_prog3._1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("show changes in repo!");
             List<int> list_number=new List<int>();
             for(int i=1; i<=10 ;i++)
             {
