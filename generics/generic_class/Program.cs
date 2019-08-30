@@ -4,7 +4,7 @@ namespace test_generics
 {
       public class gen_test<T>
       {
-    //by using generic class we dont have to specify data types function or variable calls 
+    //by using generic class we dont have to specify data types for function or variable calls 
    // of different types we speify different types in objects of class.
    // we can call same variable with different data types in object of class.
    // so instead of creating seperate class for int and separate class for string we 
